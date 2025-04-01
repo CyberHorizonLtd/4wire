@@ -4,7 +4,7 @@
 
 ## What's 4wire?
 
-A protocol, that let's 2 microcontrollers, or any other device (eg. RPi SBC-s) communicate via 4 standard GPIO pins reliably
+A protocol, that let's 2 microcontrollers, or any other device (eg. RPi SBC-s) communicate via 4 standard GPIO pins reliably at relatively high speeds (>1kb/s)
 
 [Projects already using 4wire](references.md)
 
@@ -15,7 +15,9 @@ The software provided does not come with any warranty and CyberHorizon can not b
 ## License
 
 Developed by CyberHorizon
+
 GitHub: https://github.com/cyberhorizon
+
 Website: https://cyberhorizon.com
 
 This software is provided 'as-is', without any express or implied warranty.
@@ -51,6 +53,7 @@ We will try our best to answer each question. Feel free to open an issue
 ```
 Note: The pins defined in the files provided are the tested and recommended pins
 Note: When running the code on ESP32 devices, it is recommended to disable watchdog, or set a timeout on the function call
+Note: Sending emojis via 4wire is not yet supported
 ```
 ### Raspberry
 
@@ -151,6 +154,8 @@ Controls the following lines:
 - Keep repeating the steps, until
   - Sender sets notify to low
 
-
+```
+example for sending '10110110' or 'm'
+```
 ![Protocol Image](4wire.png)
 
