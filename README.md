@@ -4,7 +4,7 @@
 
 ## What's 4wire?
 
-A protocol, that let's 2 microcontrollers, or any other device (eg. RPi SBC-s) communicate via 4 standard GPIO pins reliably
+A protocol, that let's 2 microcontrollers, or any other device (eg. RPi SBC-s) communicate via 4 standard GPIO pins reliably at relatively high speeds (>1kb/s)
 
 [Projects already using 4wire](references.md)
 
