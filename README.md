@@ -15,7 +15,9 @@ The software provided does not come with any warranty and CyberHorizon can not b
 ## License
 
 Developed by CyberHorizon
+
 GitHub: https://github.com/cyberhorizon
+
 Website: https://cyberhorizon.com
 
 This software is provided 'as-is', without any express or implied warranty.
