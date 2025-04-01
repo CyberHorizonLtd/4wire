@@ -51,6 +51,7 @@ We will try our best to answer each question. Feel free to open an issue
 ```
 Note: The pins defined in the files provided are the tested and recommended pins
 Note: When running the code on ESP32 devices, it is recommended to disable watchdog, or set a timeout on the function call
+Note: Sending emojis via 4wire is not yet supported
 ```
 ### Raspberry
 
