@@ -76,6 +76,17 @@ Note: When running the code on ESP32 devices, it is recommended to disable watch
 - [C++ receiver](sources/heltec_wifi_lora_v3_receiver.cpp)
 - [C++ sender](sources/heltec_wifi_lora_v3_sender.cpp)
 
+### Windows 11
+
+#### Files as bits 
+
+```
+objectively the best way for 2 programs to communicate
+```
+
+- [Python receiver](sources/win11_file_receiver.py)
+- [Python sender](sources/win11_file_sender.py)
+
 ## QuickStart guide
 
 - define / set the pins correctly in the code on both ends
