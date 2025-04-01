@@ -61,7 +61,7 @@ def send_char(c: str):
         wait_for_disab()
     clock(False)
 
-def send_vuart_string(data: str):
+def send_string(data: str):
     data += '\n'
     notif()
     for c in data:

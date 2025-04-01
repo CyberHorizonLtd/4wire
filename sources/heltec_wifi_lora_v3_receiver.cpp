@@ -21,7 +21,6 @@
 
 #include <Wire.h>
 #include <string>
-#include <iomanip>
 
 #define VIRTUAL_DATA_LINE 37
 #define VIRTUAL_CLOCK_LINE 46
@@ -76,7 +75,7 @@ char readChar() {
   return c;
 }
 
-std::string readVUARTString() {
+std::string readString() {
   std::string received_data;
     waitForNotif();
     while (true)
