@@ -6,6 +6,8 @@
 
 A protocol, that let's 2 microcontrollers, or any other device (eg. RPi SBC-s) communicate via 4 standard GPIO pins reliably
 
+[Projects already using 4wire](references.md)
+
 ## Disclaimer
 
 The software provided does not come with any warranty and CyberHorizon can not be held responsible under any circumstances for problems caused by the code.
