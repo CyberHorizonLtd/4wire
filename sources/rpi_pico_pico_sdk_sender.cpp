@@ -19,7 +19,6 @@
 
 #include "hardware/gpio.h"
 #include <string>
-#include <iomanip>
 
 
 #define VIRTUAL_DATA_LINE 2
