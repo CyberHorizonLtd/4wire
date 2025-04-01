@@ -82,10 +82,23 @@ Note: When running the code on ESP32 devices, it is recommended to disable watch
 
 ```
 objectively the best way for 2 programs to communicate
+used as POC for development
 ```
 
 - [Python receiver](sources/win11_file_receiver.py)
 - [Python sender](sources/win11_file_sender.py)
+
+### Ubuntu
+
+#### Files as bits 
+
+```
+objectively the best way for 2 programs to communicate
+used as POC for development
+```
+
+- [C++ receiver](sources/ubuntu_file_receiver.cpp)
+- [C++ sender](sources/ubuntu_file_sender.cpp)
 
 ## QuickStart guide
 
