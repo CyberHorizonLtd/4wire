@@ -3,6 +3,8 @@
 ```
 We acknowledge the following public repositories 
 that are known to utilize 4wire
+
+If you wish to be credited, open an issue, and link your repository
 ```
 
 ### [mantadk](https://github.com/mantadk)
