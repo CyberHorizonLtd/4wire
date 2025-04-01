@@ -150,7 +150,7 @@ Controls the following lines:
   - Sender sets notify to low
 
 ```
-example for sending '10110110'
+example for sending '10110110' or 'm'
 ```
 ![Protocol Image](4wire.png)
 
