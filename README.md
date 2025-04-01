@@ -85,8 +85,10 @@ objectively the best way for 2 programs to communicate
 used as POC for development
 ```
 
-- [Python receiver](sources/win11_file_receiver.py)
-- [Python sender](sources/win11_file_sender.py)
+- [Python string receiver](sources/win11_file_receiver.py)
+- [Python string sender](sources/win11_file_sender.py)
+- [Python file receiver](sources/win11_binary_receiver.py)
+- [Python file sender](sources/win11_binary_sender.py)
 
 ### Ubuntu
 
