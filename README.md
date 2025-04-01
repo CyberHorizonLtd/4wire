@@ -149,6 +149,8 @@ Controls the following lines:
 - Keep repeating the steps, until
   - Sender sets notify to low
 
-
+```
+example for sending '10110110'
+```
 ![Protocol Image](4wire.png)
 
